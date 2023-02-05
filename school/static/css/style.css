@@ -1,0 +1,30 @@
+
+html,
+body{
+    height:100%;
+    margin:0;
+    max-width: 100%;
+}
+
+.wrapper{
+    min-height: 100%;
+    /* margin-bottom: -50px; */
+}
+
+#footer,
+.push{
+    height:50px
+}
+
+
+#btn-nav{
+   margin-right: 25px;
+}
+
+#main_text{
+    position:absolute;
+    top:50%;
+    left:45%;
+    right:50%;
+    transform:translate(-50%,50%)
+}
